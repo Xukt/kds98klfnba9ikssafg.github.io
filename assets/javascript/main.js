@@ -1,14 +1,21 @@
 // deobfuscated by sturmgeist
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
-console.log('Credit to @fourdevils for stealing the page and to sturmgeist aka zirt for deobfuscation');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+console.log('Credit to xkt on discord DUMB ASS NIGGASSSSSSSSS');
+
 
 window.oncontextmenu = function () {
   return false;
