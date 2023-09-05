@@ -4,7 +4,7 @@ var titleText = [
     'slit',
     'kys',
     'bitch ass niggas stop skidding'
-    'seyma <3'
+    'seyma my wife'
   ];
   
   function loop() {
