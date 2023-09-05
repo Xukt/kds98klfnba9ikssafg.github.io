@@ -1,9 +1,12 @@
-// deobfuscated by sturmgeist
+// deobfuscated by xkt
 var titleText = [
-    'fd',
-    'sturmgeist',
-    '@co4med',
-    '@fourdevils'
+    'xkt',
+    'slit',
+    'kys',
+    'bitch ass niggas stop skidding'
+    'seyma <3'
+    'bmw >'
+    'stfu'
   ];
   
   function loop() {
