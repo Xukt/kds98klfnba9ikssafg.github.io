@@ -3,7 +3,7 @@ var titleText = [
     'xkt',
     'slit',
     'kys',
-    'sesyma my wife'
+    'seyma my wife'
   ];
   
   function loop() {
