@@ -5,8 +5,6 @@ var titleText = [
     'kys',
     'bitch ass niggas stop skidding'
     'seyma <3'
-    'bmw >'
-    'stfu'
   ];
   
   function loop() {
