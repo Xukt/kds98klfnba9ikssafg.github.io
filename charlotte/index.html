@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta content="charlotte" property="og:title" />
+    <meta name="theme-color" content="#000000">
+    <meta content="^-^" property="og:description" />
+    <meta content="https://cdn.discordapp.com/attachments/1140792764322287798/1154930974853955757/31092d78af0d2c8952398dcc805243e9.jpg" property="og:image" />
+    <meta name="theme-color" content="#000000">
+
+    <link rel="stylesheet" href="xkt/style.css">
+
+    <title>charlotte</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.8/typed.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="icon" type="image/x-icon" href="https://media.discordapp.net/attachments/1064948334894256178/1102991717310943373/image-fotor-bg-remover-20230502191426.png">
+
+</head>
+
+<body oncontextmenu="false">
+    <input type="checkbox" autocomplete="off" id="overlay-toggle">
+    <audio loop="" preload="auto" id="audio">
+        <source src="xkt/audio.mp3" type="audio/mp3">
+        
+    </audio>
+    <img src="charlotte/image0.jpg" class="fullscreen bg-image" id="image">
+    <body oncontextmenu="false">
+        <input type="checkbox" autocomplete="off" id="overlay-toggle">
+        <div class="overlay fullscreen">
+            <div id="center">
+                <label for="overlay-toggle" onclick="sendWebhookNotification()">
+                    <span class="hover" style="font-family: 'Roboto Mono', font-size: 75px; monospace; font-size: 0.6em;"
+                        id="bio-link">Click me!</span>
+                </label>
+            </div>
+        </div>
+        <section class="fullscreen text-content">
+            <div id="center">
+                <h1 style="font-size: 48px; font-family: 'Roboto Mono', monospace; text-shadow: 0 0 0.20em rgb(145, 93, 204);">
+                    @chxrlotte._.</h1>
+            </div>
+            <div id="center">
+                <br><br><br><br>
+                <span id="typed"
+                    style="font-size: 23px; font-family: 'Roboto Mono', monospace; text-shadow: 0 0 0.10em rgb(141, 2, 255);"></span>
+            </div>
+        </section>
+    
+        <script>
+            function sendWebhookNotification() {
+                const webhookUrl = 'https://discord.com/api/webhooks/1150824355476017273/dTWVVu8m1jTtxTbmC8KG2QytBYzlQNGv4sOsOpny5DkxFPsdIMeQPdCc93DNpO94Re25'; // Replace with your webhook URL
+    
+                const payload = {
+                    source: 'xkt0001.xyz' // Customize the source as needed
+                    // Include any additional data you want to send with the webhook
+                };
+    
+                fetch(webhookUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(payload)
+                })
+                    .then(response => {
+                        // Optionally, you can perform actions here after the webhook is sent successfully
+                    })
+                    .catch(error => {
+                        // Optionally, you can handle errors here if the webhook fails to send
+                    });
+            }
+    
+            const bioLinkButton = document.getElementById('bio-link');
+            bioLinkButton.addEventListener('click', sendWebhookNotification);
+        </script>
+    </body>
+
+<script src="charlotte/typed.js"></script>
+<script src="charlotte/main.js"></script>
+<script src="charlotte/cursor.js"></script>
+<div id="socials">
+    <a href="https://open.spotify.com/user/31akcnbddjwf3pwriyt47rzzuqde" class="black-button">{spotify}</a>
+    <a href="https://discord.com/users/1008188397547954178" class="black-button">{Discord account}</a>
+</div>
+
+</html>
